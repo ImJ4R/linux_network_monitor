@@ -1,4 +1,3 @@
-```markdown
 # Network Stack Monitor
 
 Real-time network bottleneck detection and historical drop analysis for Linux production environments.
