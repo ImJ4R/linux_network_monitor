@@ -24,8 +24,8 @@ Continuously monitors packet drops across all network stack layers with per-inte
 
 ```bash
 # Download scripts
-wget https://raw.githubusercontent.com/yourrepo/network_monitor_prod.sh
-wget https://raw.githubusercontent.com/yourrepo/analyze_drops.sh
+wget https://github.com/ImJ4R/network-monitor/raw/refs/heads/main/network_monitor_prod.sh
+wget https://github.com/ImJ4R/network-monitor/raw/refs/heads/main/analyze_drops.sh
 chmod +x network_monitor_prod.sh analyze_drops.sh
 
 # Optional: Install systemd service
